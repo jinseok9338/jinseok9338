@@ -83,4 +83,4 @@ Shell                    2 repos             █████░░░░░░�
 CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 ```
 **My Git Contribution**
-![snake gif](https://github.com/jinseok9338/jinseok9338/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jinseok9338/jinseok9338/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
