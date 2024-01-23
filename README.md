@@ -1,6 +1,6 @@
 # Hi, I'm jinseok Seo
 
-A junior frontend developer from Korea
+Full stack Dev
 
 ## About Me
 
